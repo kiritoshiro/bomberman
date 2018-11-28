@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ivedimas
+comment0.text=\n\ Write\ a\ description\ of\ class\ ivedimas\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=value
+comment1.target=void\ isvedimas(int)
+comment2.params=
+comment2.target=void\ skaitymas()
+comment3.params=
+comment3.target=void\ writinti()
+comment4.params=
+comment4.target=java.lang.String\ getHideKey()
+numComments=5

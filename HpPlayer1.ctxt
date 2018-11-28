@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HpPlayer1
+comment1.params=
+comment1.target=void\ act()
+comment2.params=lifeCount
+comment2.target=void\ setImage(int)
+numComments=3

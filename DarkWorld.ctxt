@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DarkWorld
+comment1.params=
+comment1.target=DarkWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ repopulateFlower()
+comment4.params=
+comment4.target=void\ repopulateBeast()
+comment5.params=
+comment5.target=void\ populate()
+numComments=6

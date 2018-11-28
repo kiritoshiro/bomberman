@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Player2
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ manageHp()
+comment3.params=
+comment3.target=int\ getHp2()
+comment4.params=
+comment4.target=void\ eat()
+comment5.params=
+comment5.target=int\ getFlowersEaten2()
+numComments=6

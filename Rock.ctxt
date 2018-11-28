@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Rock
+comment0.text=\n\ Write\ a\ description\ of\ class\ Brick\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=skaicius
+comment1.target=Rock(int)
+comment2.params=
+comment2.target=Rock()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ drawText()
+numComments=5

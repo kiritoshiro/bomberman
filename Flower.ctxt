@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Flower
+comment1.params=
+comment1.target=void\ mesti()
+comment2.params=tamsus
+comment2.target=Flower(boolean)
+comment3.params=
+comment3.target=Flower()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ animate()
+numComments=6

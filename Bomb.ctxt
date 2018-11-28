@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Bomb
+comment0.text=\n\ Write\ a\ description\ of\ class\ virus\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=void\ blast()
+comment2.params=getingFireImage
+comment2.target=void\ getFireImage(java.lang.String)
+comment3.params=eatenFlowers
+comment3.target=void\ bombardiaKirkudu(int)
+comment4.params=i\ j
+comment4.target=void\ xLinija(int,\ int)
+comment5.params=i\ j
+comment5.target=void\ addSomeFire(int,\ int)
+comment6.params=j\ x\ y
+comment6.target=void\ yteigGalimaLinija(int,\ int,\ int)
+comment7.params=j\ x\ y
+comment7.target=void\ yneigGalimaLinija(int,\ int,\ int)
+comment8.params=j\ x\ y
+comment8.target=void\ xteigGalimaLinija(int,\ int,\ int)
+comment9.params=j\ x\ y
+comment9.target=void\ xneigGalimaLinija(int,\ int,\ int)
+numComments=11

@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=Beast
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=void\ nearestHero()
+comment11.params=
+comment11.target=boolean\ isNear()
+comment12.params=
+comment12.target=void\ soundEffect()
+comment12.text=\n\ \ \ \ private\ int\ closerOne(){\n\ \ \ \ List<Hero>\ hero\ \=\ getObjectsInRange(100,Hero.class);\n\ \ \ \ if(hero.size()\ \=\=\ 1){\n\n\ \ \ \ }\n\ \ \ \ }\n
+comment2.params=kryptis
+comment2.target=void\ ejimasKriptimi(int)
+comment3.params=
+comment3.target=void\ stucked()
+comment4.params=
+comment4.target=void\ kriptis()
+comment5.params=x\ y
+comment5.target=void\ ejimas(int,\ int)
+comment6.params=kryptis
+comment6.target=void\ animate(int)
+comment7.params=puse
+comment7.target=void\ setImage(java.lang.String)
+comment8.params=puse
+comment8.target=void\ setAnimation(java.lang.String)
+comment9.params=x\ y
+comment9.target=void\ chaseHero(int,\ int)
+numComments=13

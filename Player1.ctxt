@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Player1
+comment0.text=\n\ Write\ a\ description\ of\ class\ Player1\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ manageHp()
+comment3.params=
+comment3.target=int\ getHp1()
+comment4.params=
+comment4.target=void\ eat()
+comment5.params=
+comment5.target=int\ getFlowersEaten1()
+numComments=6
