@@ -1,5 +1,5 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
-import java.util.*;
+import java.util.List;
 import java.io.IOException;
 public class Back extends Button
 {
@@ -10,7 +10,8 @@ public class Back extends Button
     public Back(boolean ivedimas){
         
         if(Greenfoot.mouseClicked(this)){
-            try {
+            
+        try {
                 
             ivesti.isvedimas(2);
         } catch (IOException e) {

@@ -1,5 +1,5 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
-
+import java.awt.*;
 import java.util.List;
 
 public  class Hero extends Animal
